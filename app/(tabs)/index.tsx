@@ -48,6 +48,9 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
           <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
+          <ThemedText type="defaultSemiBold">app-example</ThemedText> is ignored by git. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste modi animi quaerat necessitatibus voluptatum enim illum suscipit officiis, assumenda vel reiciendis repellendus earum aspernatur natus illo dolore nostrum molestiae. Obcaecati!
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa possimus minus laboriosam, at deleniti exercitationem quaerat, odit nostrum officiis est labore corporis? Temporibus quasi est iste facere optio ullam inventore?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio expedita quos suscipit odio illum nobis cum et, aliquam soluta enim, commodi ea facilis explicabo laudantium eos temporibus voluptate, eveniet officiis?
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
